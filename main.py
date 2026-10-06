@@ -1,4 +1,5 @@
 def main():
-	print("Hello World!")
+	x="Welcome to MECH 305"
+	print("Hello World!"+x)
 	
 main()
